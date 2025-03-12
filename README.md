@@ -40,5 +40,10 @@ This is a Kanban board application built with a React frontend and an Express ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/kanban-board.git
+   git clone git@github.com:whoenig44/Kanban-Board-Project.git
    cd kanban-board
+   ```
+
+### Deployment
+
+The application is deployed and can be accessed at [Kanban Board Application](https://kanban-board-project-yr6s.onrender.com)
